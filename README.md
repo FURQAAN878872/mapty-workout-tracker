@@ -6,7 +6,7 @@ Mapty allows users to record running and cycling workouts directly on an interac
 
 ## 🚀 Live Demo
 
-[View Mapty Live](https://furqaan878872.github.io/mapty-workout-tracker/)
+[Live Demo](https://furqaan878872.github.io/mapty-workout-tracker/)
 
 ## 📌 Features
 
